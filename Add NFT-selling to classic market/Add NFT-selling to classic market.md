@@ -1,7 +1,7 @@
 Who is this document for:
 
 This guide is intended for marketplace owners and developers who wish to
-trade NFT through their website.
+trade NFT through existing e-commerce website.
 
 To connect the marketplace to the Polkadot blockchain, you need a REST-
 api (unique-SDK) to work with the Unique infrastructure (
